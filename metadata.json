@@ -1,0 +1,6 @@
+{
+  "name": "Anganwadi Nutrition Tracker",
+  "description": "Simplified nutrition tracking for Anganwadi workers in India with voice support.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": []
+}
